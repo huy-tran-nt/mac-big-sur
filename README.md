@@ -1,7 +1,6 @@
 # MacOS Big Sur on the web
 
-<!-- Live demo: [https://mac-bigsur.vercel.app/](https://mac-bigsur.vercel.app/) -->
-
+<!-- Live demo will be deployed soon -->
 ## Dependencies
 
 - Vue 3 (Setup Script)
@@ -10,6 +9,10 @@
 - Sass
 - BoxIcons
 
-## Preview
+## Meanwhile, how to run: 
+```bash
+cd mac-big-sur
+npm install
+npm run dev
+```
 
-![Preview Image](https://res.cloudinary.com/naptest/image/upload/v1637208522/mac_n0xmvy.png)
