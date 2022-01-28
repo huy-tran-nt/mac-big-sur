@@ -9,7 +9,7 @@
 - Sass
 - BoxIcons
 
-## Live demo will be deployed soon, ...
+**Live demo will be deployed soon, ...**
   
 ## Meanwhile, how to run: 
 ```bash
