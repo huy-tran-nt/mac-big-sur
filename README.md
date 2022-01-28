@@ -1,4 +1,4 @@
-# MacOS Big Sur on the web
+# MacOS Big Sur Clone on the browser
 
 <!-- Live demo will be deployed soon -->
 ## Dependencies
@@ -9,6 +9,8 @@
 - Sass
 - BoxIcons
 
+## Live demo will be deployed soon, ...
+  
 ## Meanwhile, how to run: 
 ```bash
 cd mac-big-sur
